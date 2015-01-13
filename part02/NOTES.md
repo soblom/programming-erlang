@@ -17,10 +17,13 @@
 
  - Data types for functions
  - can be created and stored like any other variable, e.g.
-	```erlang
-	Double(X) = fun(X) -> 2 * X end.
-	```
+
+  ```erlang
+  Double(X) = fun(X) -> 2 * X end.
+  ```
+  
  - Can be used to write user-defined control structures, e.g
-	```erlang
+  
+  ```erlang
 	
-	```
+  ```
